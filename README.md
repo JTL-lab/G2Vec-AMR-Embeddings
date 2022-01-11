@@ -11,6 +11,13 @@ One method that combines gene embeddings with network based learning is G2Vec, a
 This project seeks to apply G2Vec to the analysis and identification of candidate AMR-conferring genes.
 
 ## Acknowledgement
+
+### Input data files
+Genome data was obtained from NCBI. 
+
+Prokka [5], Roary [6], and RGI [2] were used for data preprocessing.
+
+### G2Vec 
 This project utilizes source code from G2Vec [1], created by Choi et al. for the purpose of identifying biomarkers for cancer prognosis. Code was migrated to Tensorflow 2.0.
 
 Link to repository: https://github.com/mathcom/G2Vec
@@ -25,5 +32,8 @@ Link to repository: https://github.com/mathcom/G2Vec
 
 [4] Du, J., Jia, P., Dai, Y., Tao, C., Zhao, Z., and Zhi, D. (2019). Gene2vec: Distributed representation of genes based on co-expression. \emph{BMC Genomics}, 20(Suppl 1). DOI: 10.1186/s12864-018-5370-x
 
+[5] Seemann T. Prokka: rapid prokaryotic genome annotation. Bioinformatics. 2014 Jul 15;30(14):2068-9. doi: 10.1093/bioinformatics/btu153. Epub 2014 Mar 18. PMID: 24642063.
+
+[6] Andrew J. Page, Carla A. Cummins, Martin Hunt, Vanessa K. Wong, Sandra Reuter, Matthew T. G. Holden, Maria Fookes, Daniel Falush, Jacqueline A. Keane, Julian Parkhill, "Roary: Rapid large-scale prokaryote pan genome analysis", Bioinformatics, 2015;31(22):3691-3693 doi:10.1093/bioinformatics/btv421
 
 
