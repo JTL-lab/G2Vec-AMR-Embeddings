@@ -8,7 +8,7 @@ Generating feature representations or embeddings for genomic data has arisen as 
 
 One method that combines gene embeddings with network based learning is G2Vec, a deep learning method introduced by Choi et al. capable of identifying gene signatures through distributed gene representations [1]. It was implemented for the purpose of predicting cancer prognostic genes [1], but has relevance for AMR prediction tasks as G2Vec offers a practical methodology for preserving gene context information.
 
-This project seeks to apply G2Vec to the analysis and identification of candidate AMR-conferring genes.
+This project seeks to apply G2Vec to the analysis and identification of candidate AMR-conferring genes It also focuses on the visual analysis of gene neighborhoods of AMR genes.
 
 ## Acknowledgement
 
