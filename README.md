@@ -1,4 +1,6 @@
 # G2Vec-AMR-Embeddings
+
+## Summary
 Application of deep learning methodology G2Vec [1] to gene neighborhood data for the analysis of antimicrobial resistance (AMR) conferring genes and evaluation of Resistance Gene Identifier (RGI) [2] Loose Hits using a model that is trained on Perfect and Strict hits. 
 
 ## Background
