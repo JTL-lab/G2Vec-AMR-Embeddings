@@ -12,6 +12,10 @@ One method that combines gene embeddings with network based learning is G2Vec, a
 
 This project seeks to apply G2Vec to the analysis and identification of candidate AMR-conferring genes It also focuses on the visual analysis of gene neighborhoods of AMR genes.
 
+## Workflow
+
+![alt text](https://github.com/JTL-lab/G2Vec-AMR-Embeddings/blob/main/assets/workflow-visualization.png?raw=True)
+
 ## Acknowledgement
 
 ### Input data files
