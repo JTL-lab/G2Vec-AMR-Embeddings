@@ -14,7 +14,9 @@ This project seeks to apply G2Vec to the analysis and identification of candidat
 
 ## Workflow
 
-![alt text](https://github.com/JTL-lab/G2Vec-AMR-Embeddings/blob/main/assets/workflow-visualization.png?raw=True)
+<p align="center">
+  <img src="https://github.com/JTL-lab/G2Vec-AMR-Embeddings/blob/main/assets/workflow-visualization.png" alt="Workflow diagram for embedding generation, model training, and use" width=50% height=50%>
+</p>
 
 ## Acknowledgement
 
